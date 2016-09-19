@@ -1,2 +1,2 @@
 # Contract-Management
-A web application for contract managemtn
+A web application for contract management
