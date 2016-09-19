@@ -1,4 +1,13 @@
 Rails.application.routes.draw do
+  get 'contracts/list'
+   get 'contracts/new'
+   post 'contracts/create'
+   patch 'contracts/update'
+   get 'contracts/list'
+   get 'contracts/show'
+   get 'contracts/edit'
+   get 'contracts/delete'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
